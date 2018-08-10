@@ -1,3 +1,11 @@
+# DEPRECATED
+
+Moved this over to the official [QMK Firmware repo](https://github.com/qmk/qmk_firmware) as a custom [Spaceman Spiff Keymap](https://github.com/qmk/qmk_firmware/tree/master/keyboards/satan/keymaps/spacemanspiff). 
+
+Once I figured out that cloning that repo and working with their `make` build process was straight forward I was much happier with that than the web editor.
+
+----
+
 Spaceman Spiff layout for GH60
 
 ![layout](keyboard-layer-0.png)
